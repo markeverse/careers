@@ -1,0 +1,4 @@
+baseURL = 'https://markeverse.github.io/careers'
+languageCode = 'en-us'
+title = 'Markeverse Careers'
+theme = "hugo-theme-monochrome"
