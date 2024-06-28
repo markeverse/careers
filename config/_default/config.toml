@@ -1,6 +1,6 @@
 baseURL = "https://markeverse.github.io/careers"
 languageCode = "en"
-title = "Monochrome"
+title = "Markeverse Careers"
 theme = "hugo-theme-monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true
