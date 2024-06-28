@@ -9,4 +9,7 @@ To apply for positions, please follow the exact instruction provided here:
 2. Attaching your CV is mandatory. It is highly recommended to attach supporting document to your application:
     - A short *cover letter* for tech jobs (hint: max 2-page)
     - A *portfolio* of your previous work, prioritizing the one you like the most (hint: no page limit, but please prepare it in precise manner to your own taste)
-3. Please include the phrase "I have read the instructions" (in Persian or English) in your email so we can verify you are aware of the contents of this page; otherwise you will be put in low-priority queue and your application won't be treated according to the timeline we provided.
+
+**Our email**: hr<img src="at-sign.jpg" alt="at" style="width: 12px; height: 12px; display: inline;">markeverse.com
+
+PS: If you have trouble with this document, please send an email to our support email with subject `apply`: support<img src="at-sign.jpg" alt="at" style="width: 12px; height: 12px; display: inline;">markeverse.com
