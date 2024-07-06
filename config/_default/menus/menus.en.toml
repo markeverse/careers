@@ -1,7 +1,7 @@
 [[navbar]]
   identifier = "home"
   name = "Home"
-  url = "../"
+  url = "https://markeverse.github.io"
   weight = 1
 [[navbar]]
   identifier = "list"
