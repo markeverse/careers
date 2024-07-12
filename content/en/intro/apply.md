@@ -13,4 +13,10 @@ To apply for positions, please follow the exact instruction provided here:
 
 **Our email**: hr<img src="at-sign.jpg" alt="at" style="width: 12px; height: 12px; display: inline;">markeverse.com
 
-PS: If you have trouble with this document, please send an email to our support email with subject `apply`: support<img src="at-sign.jpg" alt="at" style="width: 12px; height: 12px; display: inline;">markeverse.com
+
+
+<p>
+    <a href="positions/">
+        <img src="positions-button.webp" alt="Positions" class="positions-button">
+    </a>
+</p>

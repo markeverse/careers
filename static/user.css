@@ -1,2 +1,6 @@
 html[data-theme="dark"] {
 }
+.positions-button {
+    height: 45px !important;
+    width: 164px !important;
+}
