@@ -11,8 +11,9 @@ To apply for positions, please follow the exact instruction provided here:
     - A *portfolio* of your previous work, prioritizing the one you like the most (hint: no page limit, but please prepare it in precise manner to your own taste)
 3. Please include the phrase "_**I have read the instructions**_" (in Persian or English) in your email so we can verify you are aware of the contents of this page; applicant who follow this will be put in high-priority queue.
 
-**Our email**: hr<img src="at-sign.jpg" alt="at" style="width: 12px; height: 12px; display: inline;">markeverse.com
+**Our email**: hr<img src="at-sign.jpg" alt="at" class="at-sign">markeverse.com
 
+PS: If you have trouble with this document, please send an email to our support email with subject `apply`: support<img src="at-sign.jpg" alt="at" class="at-sign">markeverse.com
 
 
 <p>

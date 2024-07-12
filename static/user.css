@@ -1,5 +1,12 @@
 html[data-theme="dark"] {
 }
+
+.at-sign {
+    width: 12px;
+    height: 12px;
+    display: inline;
+}
+
 .positions-button {
     height: 45px !important;
     width: 164px !important;
